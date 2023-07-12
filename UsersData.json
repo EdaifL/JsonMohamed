@@ -7,7 +7,7 @@
         "country": "Quintão",
         "State":"",
         "city":"",
-        "Age": "19",
+        "Age": 19,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     },{
@@ -17,7 +17,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -28,7 +28,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -39,7 +39,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -50,118 +50,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
-        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
-        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
-    }
-    ,{
-        "Name": "fati",
-        "gender":"Female",
-        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
-        "location": "Quintão",
-        "State":"",
-        "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -173,7 +62,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -184,7 +73,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -195,7 +84,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -206,7 +95,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -217,7 +106,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -228,7 +117,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -239,7 +128,7 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
@@ -250,7 +139,118 @@
         "location": "Quintão",
         "State":"",
         "city":"",
-        "Age": "24",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
+        "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
+        "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
+    }
+    ,{
+        "Name": "fati",
+        "gender":"Female",
+        "profile_picture": "https://i0.tagstat.com/p1/0/0iK2hZN9JcASJFy5td-pHkOJTdCrOYrJmTHtsbWQm-Hf-4_iY4JXU6hdYOIqjLy-.jpg",
+        "location": "Quintão",
+        "State":"",
+        "city":"",
+        "Age": 24,
         "Video_Link":"https://video.blender.org/download/videos/a2d5b441-386f-497d-9c17-9a91c0a6299e-1080.mp4",
         "Audio_Link":"https://freesound.org/people/slimclic/sounds/340175/download/340175__slimclic__talking-po.mp3"
     }
