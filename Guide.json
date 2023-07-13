@@ -42,7 +42,7 @@
         "AppId": "205662312"
     },
     "Unity": {
-        "IsOn": true,
+        "IsOn": false,
         "AppId": "4498253",
         "Banner": "Banner_Android",
         "Inter": "Interstitial_Android",
