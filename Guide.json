@@ -18,7 +18,7 @@
         "Link": "https://youtube.com"
     },
     "Facebook": {
-        "IsOn": false,
+        "IsOn": true,
         "Banner": "826679171300438_1284668872168130",
         "Inter": "826679171300438_1284668938834790",
         "Native": "826679171300438_1284669018834782",
@@ -39,7 +39,7 @@
         "Reward": "demo-rewarded-yandex"
     },
     "StartApp": {
-        "IsOn": true,
+        "IsOn": false,
         "AppId": "205662312"
     },
     "Unity": {
